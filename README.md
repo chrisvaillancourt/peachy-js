@@ -1,2 +1,3 @@
-# peachy-js
-Peaching and good to know JavaScript things
+# Peachy-js
+
+Peachy and good to know JavaScript things
